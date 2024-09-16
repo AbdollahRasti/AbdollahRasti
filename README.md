@@ -13,8 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdollahRasti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📦 Latest Repositories:
-<!--START_SECTION:recent-repositories-->
-<!--END_SECTION:recent-repositories-->
+- [crypto-tracking-app]([https://github.com/AbdollahRasti/crypto-tracking-app](https://github.com/AbdollahRasti/crypto-currency-mobile-app)) - A crypto currency price tracker app built with Flutter and Firebase.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
