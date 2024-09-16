@@ -1,0 +1,26 @@
+name: Update README with latest repositories
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour to update the README
+  workflow_dispatch:  # Allows you to manually trigger the workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Update README with latest repositories
+        run: |
+          curl -s https://api.github.com/users/AbdollahRasti/repos?per_page=5&sort=updated \
+          | jq -r '.[] | "- [\(.name)](\(.html_url)) - \(.description)"' > recent_repos.md
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Action"
+          git add recent_repos.md
+          git commit -m "Updated README with latest repositories"
+          git push
