@@ -13,7 +13,22 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdollahRasti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📦 Latest Repositories:
-- [crypto-tracking-app]([https://github.com/AbdollahRasti/crypto-tracking-app](https://github.com/AbdollahRasti/crypto-currency-mobile-app)) - A crypto currency price tracker app built with Flutter and Firebase.
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px;">
+
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="font-size: 18px; margin: 0;"><a href="https://github.com/AbdollahRasti/crypto-tracking-app" style="text-decoration: none; color: #0366d6;">Crypto Tracking App</a></h3>
+    <p>A cryptocurrency price tracker app built with Flutter and Firebase.</p>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="font-size: 18px; margin: 0;"><a href="https://github.com/AbdollahRasti/another-repo" style="text-decoration: none; color: #0366d6;">Another Repository</a></h3>
+    <p>Description of another repository.</p>
+  </div>
+
+  <!-- Add more cards as needed -->
+
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
