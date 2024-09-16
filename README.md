@@ -14,7 +14,7 @@
   <!-- Card 1 -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 250px; height: 250px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #fff;">
     <div style="text-align: center;">
-      <h3 style="font-size: 18px; margin: 0 0 8px 0;"><a href="https://github.com/AbdollahRasti/crypto-currency-mobile-app" style="text-decoration: none; color: #0366d6;">Crypto Tracking App</a></h3>
+      <h3 style="font-size: 18px; margin: 0 0 8px 0;"><a href="https://github.com/AbdollahRasti/crypto-currency-mobile-app" style="text-decoration: none; color: #0366d6;">-Crypto Currency Price Tracking App</a></h3>
       <p style="font-size: 14px; margin: 0; color: #333;">A crypto currency price tracker app built with Flutter and Firebase.</p>
     </div>
   </div>
