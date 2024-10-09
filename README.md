@@ -9,7 +9,6 @@
 
 ## 📦 Latest Repositories:
 
-next table:
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
 
   <!-- Card 1 -->
